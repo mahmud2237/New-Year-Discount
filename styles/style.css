@@ -46,3 +46,66 @@ h1 {
     font-weight: 900;
     text-decoration: none;
 }
+
+.mainbody {
+    max-width: 1320px;
+    min-height: 600px;
+    margin: 0 auto;
+}
+
+.section-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+}
+
+.section-1 h1 {
+    font-size: 65px;
+    color: black;
+}
+
+.section-2 {
+    background-image: url(../images/Rectangle-2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 35px;
+}
+
+.section-3 {
+    background-image: url(../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    margin-top: 35px;
+    height: 600px;
+}
+
+.section-4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.section-5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #eaa565;
+    border-radius: 6px;
+    /* width: 1068px; */
+    height: 260px;
+}
+
+.section-5 h1 {
+    color: black;
+}
+
+.section-6{
+    
+}
